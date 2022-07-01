@@ -6,7 +6,7 @@
 }
 /********** Container body font family and font size ***********/
 body {
-  font-family: sans-serif;
+  font-family: sans-serif, serif;
   font-size: 100%;
 }
 /********** Container H2 styles for region position on section with margins
@@ -46,16 +46,16 @@ h1 {
   }  
   /********* Region positioning text align margins and style **********/
   .chicken{
-    background-color:#009999;         
+    background-color:#FFFFFF;         
     color: white;
     }
    .beef{
-    background-color:#3333ff;
-    color: white;  
+    background-color:#808080;
+    color: gray;  
    }
    .sushi{
-    background-color:#993366;
-    color: white;   
+    background-color:#C0C0C0;
+    color: silver;   
    }
 /********** Desktop **********/
 @media (min-width: 992px) {  
